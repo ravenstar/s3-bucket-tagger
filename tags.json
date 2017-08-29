@@ -1,0 +1,8 @@
+{
+   "TagSet": [
+     {
+       "Key": "BucketName",
+       "Value": "%_BucketName%"
+     }
+   ]
+}
